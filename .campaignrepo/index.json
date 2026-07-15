@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-15T13:17:11.695Z",
+  "pages": [
+    {
+      "id": "lore-Bee-Boat-and-Spirit-World",
+      "title": "Bee Boat and Spirit World",
+      "path": "wiki/pages/Bee-Boat-and-Spirit-World.md",
+      "type": "lore",
+      "tags": [
+        "lore",
+        "spirit",
+        "bees"
+      ],
+      "links": [
+        "npc-Tasman-Quill"
+      ],
+      "aliases": [
+        "Bee Boat"
+      ],
+      "summary": "A spirit-world passage involving a boat made of bees and a return from a much longer absence than expected.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Caleb",
+      "title": "Caleb",
+      "path": "wiki/pages/Caleb.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "riverbed-boys"
+      ],
+      "links": [
+        "organization-Riverbed-Boys",
+        "location-Saltwind-Line",
+        "npc-Keiths-Aunt-Paige",
+        "lore-Salton-Sea-Prison",
+        "organization-Riverbed-Boys",
+        "npc-Nina",
+        "npc-Old-Man-Hummingbird",
+        "npc-Keiths-Aunt-Paige"
+      ],
+      "aliases": [],
+      "summary": "A member of the Riverbed Boys, practical and wary when the cabal asks about Paige.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Campaign-Overview",
+      "title": "Campaign Overview",
+      "path": "wiki/pages/Campaign-Overview.md",
+      "type": "lore",
+      "tags": [
+        "overview",
+        "mage"
+      ],
+      "links": [
+        "location-Slab-City",
+        "location-Salton-Sea",
+        "location-The-Library",
+        "npc-Keiths-Aunt-Paige",
+        "location-The-Library",
+        "npc-Keiths-Aunt-Paige",
+        "organization-The-Union",
+        "npc-Dry-Bones",
+        "npc-Keiths-Aunt-Paige",
+        "species-Tendril-Creatures",
+        "lore-Salton-Sea-Prison",
+        "organization-The-Union",
+        "location-The-Library",
+        "location-The-Last-Cup",
+        "location-East-Jesus",
+        "location-Music-Camp",
+        "location-Saltwind-Line",
+        "location-Salvation-Mountain",
+        "location-Salton-Sea"
+      ],
+      "aliases": [
+        "Sands Under the Slabs"
+      ],
+      "summary": "Sands Under the Slab is a Mage: The Ascension chronicle about new mages, Slab City, a dead librarian, and a prison under the Salton Sea.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Dry-Bones",
+      "title": "Dry Bones",
+      "path": "wiki/pages/Dry-Bones.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "spirit",
+        "paradox"
+      ],
+      "links": [
+        "location-East-Jesus",
+        "location-Temple-of-the-Sun-and-Moon"
+      ],
+      "aliases": [
+        "Old Dry Bones"
+      ],
+      "summary": "A desert death and paradox spirit in a duster and hat, enforcing the dry law of Slab City.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-East-Jesus",
+      "title": "East Jesus",
+      "path": "wiki/pages/East-Jesus.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "spirit",
+        "vision"
+      ],
+      "links": [
+        "species-Tendril-Creatures",
+        "location-Temple-of-the-Sun-and-Moon",
+        "npc-Dry-Bones"
+      ],
+      "aliases": [],
+      "summary": "An art-installation site where the Gauntlet is thin and a broken TV opens onto a vision of older sacrifices and tendril creatures.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Eli",
+      "title": "Eli",
+      "path": "wiki/pages/Eli.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "faction"
+      ],
+      "links": [
+        "organization-The-Beat",
+        "npc-Razor-Tom",
+        "location-Music-Camp",
+        "npc-Keiths-Aunt-Paige",
+        "lore-Salton-Sea-Prison",
+        "organization-The-Beat",
+        "location-Music-Camp",
+        "npc-Razor-Tom",
+        "lore-Slab-City-Mage-Law"
+      ],
+      "aliases": [],
+      "summary": "Head of The Beat, an early guide to Slab City's rules and a politically important local mage.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Gold-and-Quintessence",
+      "title": "Gold and Quintessence",
+      "path": "wiki/pages/Gold-and-Quintessence.md",
+      "type": "lore",
+      "tags": [
+        "lore",
+        "quintessence"
+      ],
+      "links": [
+        "species-Tendril-Creatures",
+        "location-East-Jesus",
+        "location-Temple-of-the-Sun-and-Moon"
+      ],
+      "aliases": [],
+      "summary": "A recurring clue tying sacrifice, tendril creatures, fertility, and visions of the past together.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Gragnock-Stoneheart",
+      "title": "Gragnock Stoneheart",
+      "path": "wiki/pages/Gragnock-Stoneheart.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "spirit"
+      ],
+      "links": [
+        "location-The-Library",
+        "character-Ian",
+        "location-The-Library",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [
+        "Gragnock"
+      ],
+      "summary": "A local rock spirit whose true name appears in Paige's library tome and becomes a powerful instrument for Ian.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Ian",
+      "title": "Ian",
+      "path": "wiki/pages/Ian.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character"
+      ],
+      "links": [
+        "location-The-Library",
+        "npc-Gragnock-Stoneheart",
+        "npc-Gragnock-Stoneheart",
+        "location-East-Jesus",
+        "species-Tendril-Creatures"
+      ],
+      "aliases": [],
+      "summary": "A newly arrived mage whose avatar is bound up with a rock, a spirit tome, and the name Gragnock Stoneheart.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Keith",
+      "title": "Keith",
+      "path": "wiki/pages/Keith.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character"
+      ],
+      "links": [
+        "npc-Keiths-Aunt-Paige",
+        "location-The-Library",
+        "npc-Dry-Bones",
+        "npc-Keiths-Aunt-Paige",
+        "location-The-Library",
+        "npc-Dry-Bones",
+        "organization-Riverbed-Boys"
+      ],
+      "aliases": [
+        "Josh's character"
+      ],
+      "summary": "Paige's nephew, pulled into Slab City by his aunt's death and the legacy she left behind.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Keiths-Aunt-Paige",
+      "title": "Keith's Aunt Paige",
+      "path": "wiki/pages/Keiths-Aunt-Paige.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "deceased",
+        "mystery"
+      ],
+      "links": [
+        "location-The-Library",
+        "organization-Riverbed-Boys",
+        "npc-Nina",
+        "npc-Mouse",
+        "species-Tendril-Creatures",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [
+        "Paige",
+        "Keith's Aunt"
+      ],
+      "summary": "The dead librarian whose murder opens the chronicle; brilliant, protective, feared, and accused of dangerous mind, time, and spirit magic.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Mouse",
+      "title": "Mouse",
+      "path": "wiki/pages/Mouse.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "mystery"
+      ],
+      "links": [
+        "organization-Shattered-Bottles",
+        "npc-Keiths-Aunt-Paige",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [],
+      "summary": "A Shattered Bottles member who reportedly defended Paige during a local accusation or trial.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Music-Camp",
+      "title": "Music Camp",
+      "path": "wiki/pages/Music-Camp.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "music"
+      ],
+      "links": [
+        "location-East-Jesus",
+        "npc-Razor-Tom",
+        "location-Salvation-Mountain",
+        "organization-The-Beat",
+        "organization-Shattered-Bottles",
+        "organization-The-Beat",
+        "npc-Eli",
+        "npc-Razor-Tom",
+        "character-Twilight",
+        "location-Salvation-Mountain"
+      ],
+      "aliases": [],
+      "summary": "A social and magical gathering place where music, memory, performance, and tribe politics overlap.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Nina",
+      "title": "Nina",
+      "path": "wiki/pages/Nina.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "riverbed-boys"
+      ],
+      "links": [
+        "organization-Riverbed-Boys",
+        "npc-Keiths-Aunt-Paige",
+        "location-The-Library",
+        "npc-Old-Man-Hummingbird",
+        "location-Salton-Sea"
+      ],
+      "aliases": [],
+      "summary": "A Riverbed Boys member who once stayed at Paige's Library for months and still carries gratitude and guarded knowledge.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Old-Man-Hummingbird",
+      "title": "Old Man Hummingbird",
+      "path": "wiki/pages/Old-Man-Hummingbird.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "riverbed-boys",
+        "spirit"
+      ],
+      "links": [
+        "organization-Riverbed-Boys",
+        "location-Saltwind-Line",
+        "npc-Keiths-Aunt-Paige",
+        "location-Salton-Sea",
+        "npc-Nina",
+        "organization-Riverbed-Boys",
+        "npc-Nina",
+        "npc-Caleb",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [
+        "Hummingbird"
+      ],
+      "summary": "A Riverbed Boys elder whose music and spirit knowledge guide the cabal toward the Salton Sea.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "events-Open-Quests",
+      "title": "Open Quests",
+      "path": "wiki/pages/Open-Quests.md",
+      "type": "events",
+      "tags": [
+        "quests",
+        "tracker"
+      ],
+      "links": [
+        "npc-Keiths-Aunt-Paige",
+        "location-The-Library",
+        "npc-Mouse",
+        "lore-Salton-Sea-Prison",
+        "species-Tendril-Creatures",
+        "location-Salvation-Mountain",
+        "organization-The-Union"
+      ],
+      "aliases": [
+        "Quest Log"
+      ],
+      "summary": "A practical tracker for the campaign's unresolved mysteries and next actions.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-Order-of-Reason",
+      "title": "Order of Reason",
+      "path": "wiki/pages/Order-of-Reason.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "history"
+      ],
+      "links": [
+        "location-East-Jesus",
+        "location-Temple-of-the-Sun-and-Moon",
+        "species-Tendril-Creatures",
+        "organization-The-Union"
+      ],
+      "aliases": [
+        "Conquistadors"
+      ],
+      "summary": "Historical predecessors or analogues of the Union seen in the temple vision, tied to conquistadors and the breaking of an older ritual system.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Player-Characters",
+      "title": "Player Characters",
+      "path": "wiki/pages/Player-Characters.md",
+      "type": "character",
+      "tags": [
+        "character",
+        "index"
+      ],
+      "links": [
+        "character-Keith",
+        "character-Ian",
+        "character-Twilight",
+        "location-East-Jesus"
+      ],
+      "aliases": [
+        "Cabal"
+      ],
+      "summary": "Working index of the cabal members named in the early Sands Under the Slab transcripts.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Pompey",
+      "title": "Pompey",
+      "path": "wiki/pages/Pompey.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "mystery"
+      ],
+      "links": [
+        "npc-Keiths-Aunt-Paige"
+      ],
+      "aliases": [],
+      "summary": "A name connected to Paige's earlier trouble and possible defense or protection in Slab City politics.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Razor-Tom",
+      "title": "Razor Tom",
+      "path": "wiki/pages/Razor-Tom.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "faction"
+      ],
+      "links": [
+        "organization-Shattered-Bottles",
+        "npc-Eli",
+        "location-Music-Camp",
+        "location-Salvation-Mountain",
+        "organization-Shattered-Bottles",
+        "npc-Eli",
+        "location-Music-Camp",
+        "location-Salvation-Mountain"
+      ],
+      "aliases": [
+        "Razor"
+      ],
+      "summary": "A Shattered Bottles member who speaks with Eli and points the cabal toward Salvation Mountain.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-Riverbed-Boys",
+      "title": "Riverbed Boys",
+      "path": "wiki/pages/Riverbed-Boys.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "circle"
+      ],
+      "links": [
+        "location-Saltwind-Line",
+        "npc-Keiths-Aunt-Paige",
+        "npc-Caleb",
+        "npc-Nina",
+        "npc-Old-Man-Hummingbird",
+        "location-The-Library",
+        "npc-Mouse",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [],
+      "summary": "A circle of Slab City mages tied to music, shared memory, and Paige's past.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Salton-Sea",
+      "title": "Salton Sea",
+      "path": "wiki/pages/Salton-Sea.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "salton-sea",
+        "prison"
+      ],
+      "links": [
+        "organization-The-Union",
+        "species-Tendril-Creatures",
+        "lore-Salton-Sea-Prison",
+        "species-Tendril-Creatures",
+        "organization-The-Union",
+        "npc-Keiths-Aunt-Paige"
+      ],
+      "aliases": [],
+      "summary": "The toxic sea at the center of the campaign's largest secret: a Union-made or Union-maintained prison that bleeds the land.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Salton-Sea-Prison",
+      "title": "Salton Sea Prison",
+      "path": "wiki/pages/Salton-Sea-Prison.md",
+      "type": "lore",
+      "tags": [
+        "lore",
+        "prison",
+        "mystery"
+      ],
+      "links": [
+        "location-Salton-Sea",
+        "species-Tendril-Creatures",
+        "organization-The-Union"
+      ],
+      "aliases": [
+        "The Prison"
+      ],
+      "summary": "The central magical problem: a prison beneath or around the Salton Sea that contains dangerous spirit-creatures by bleeding the land dry.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Saltwind-Line",
+      "title": "Saltwind Line",
+      "path": "wiki/pages/Saltwind-Line.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "riverbed-boys"
+      ],
+      "links": [
+        "organization-Riverbed-Boys",
+        "npc-Keiths-Aunt-Paige",
+        "organization-Riverbed-Boys",
+        "npc-Caleb",
+        "npc-Nina",
+        "npc-Old-Man-Hummingbird"
+      ],
+      "aliases": [],
+      "summary": "A settlement of dead pads, dugouts, and cool underground places where the Riverbed Boys live and play.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Salvation-Mountain",
+      "title": "Salvation Mountain",
+      "path": "wiki/pages/Salvation-Mountain.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "node",
+        "mystery"
+      ],
+      "links": [
+        "npc-Razor-Tom"
+      ],
+      "aliases": [],
+      "summary": "A node and spiritual landmark tied to love, hunger, local politics, and the attacks by a younger tendril creature.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "games-Session-00-Prelude",
+      "title": "Session 00 - Prelude",
+      "path": "wiki/pages/Session-00-Prelude.md",
+      "type": "games",
+      "tags": [
+        "session",
+        "recap"
+      ],
+      "links": [
+        "location-Slab-City",
+        "location-The-Library",
+        "npc-Keiths-Aunt-Paige"
+      ],
+      "aliases": [],
+      "summary": "The characters shelter in the Library during a sandstorm and discover Paige's body.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "games-Session-01-Official-Game-One",
+      "title": "Session 01 - Official Game One",
+      "path": "wiki/pages/Session-01-Official-Game-One.md",
+      "type": "games",
+      "tags": [
+        "session",
+        "recap"
+      ],
+      "links": [
+        "location-The-Library",
+        "npc-Gragnock-Stoneheart",
+        "npc-Eli",
+        "npc-Dry-Bones",
+        "organization-The-Union",
+        "location-Salvation-Mountain"
+      ],
+      "aliases": [],
+      "summary": "The cabal wakes into Slab City, reads Paige's tome, learns Gragnock's name, and begins meeting the local mage community.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "games-Session-02-The-Last-Cup-and-East-Jesus",
+      "title": "Session 02 - The Last Cup and East Jesus",
+      "path": "wiki/pages/Session-02-The-Last-Cup-and-East-Jesus.md",
+      "type": "games",
+      "tags": [
+        "session",
+        "recap"
+      ],
+      "links": [
+        "location-The-Last-Cup",
+        "npc-Tasman-Quill",
+        "organization-The-Union",
+        "location-East-Jesus",
+        "location-Temple-of-the-Sun-and-Moon",
+        "species-Tendril-Creatures"
+      ],
+      "aliases": [],
+      "summary": "The cabal questions Tasman Quill, learns more about the Union, and triggers a dangerous vision at East Jesus.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "games-Session-03-Music-Camp-and-Salvation-Mountain",
+      "title": "Session 03 - Music Camp and Salvation Mountain",
+      "path": "wiki/pages/Session-03-Music-Camp-and-Salvation-Mountain.md",
+      "type": "games",
+      "tags": [
+        "session",
+        "recap"
+      ],
+      "links": [
+        "location-Music-Camp",
+        "npc-Eli",
+        "npc-Razor-Tom",
+        "location-Salvation-Mountain",
+        "organization-The-Beat",
+        "organization-Shattered-Bottles"
+      ],
+      "aliases": [],
+      "summary": "Music Camp gives the cabal faction leads, then the route toward Salvation Mountain turns into a tendril-creature attack.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "games-Session-04-Spirit-World-and-Time-Vision",
+      "title": "Session 04 - Spirit World and Time Vision",
+      "path": "wiki/pages/Session-04-Spirit-World-and-Time-Vision.md",
+      "type": "games",
+      "tags": [
+        "session",
+        "recap"
+      ],
+      "links": [
+        "lore-Bee-Boat-and-Spirit-World",
+        "location-Temple-of-the-Sun-and-Moon",
+        "npc-Tasman-Quill"
+      ],
+      "aliases": [],
+      "summary": "The cabal flees into the spirit world, rides the bee boat, witnesses older temple sacrifices, and returns after a long absence.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "games-Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "title": "Session 05 - Riverbed Boys and the Salton Sea",
+      "path": "wiki/pages/Session-05-Riverbed-Boys-and-the-Salton-Sea.md",
+      "type": "games",
+      "tags": [
+        "session",
+        "recap"
+      ],
+      "links": [
+        "location-Saltwind-Line",
+        "organization-Riverbed-Boys",
+        "npc-Keiths-Aunt-Paige",
+        "npc-Mouse",
+        "location-Salton-Sea",
+        "organization-The-Union",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [],
+      "summary": "The Riverbed Boys reveal more about Paige, then guide the cabal toward the prison under the Salton Sea.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-Shattered-Bottles",
+      "title": "Shattered Bottles",
+      "path": "wiki/pages/Shattered-Bottles.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "faction"
+      ],
+      "links": [
+        "npc-Razor-Tom",
+        "npc-Mouse",
+        "npc-Keiths-Aunt-Paige",
+        "npc-Razor-Tom",
+        "npc-Mouse",
+        "organization-The-Beat",
+        "npc-Keiths-Aunt-Paige"
+      ],
+      "aliases": [],
+      "summary": "A Slab City faction connected to Razor Tom and Mouse.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Slab-City",
+      "title": "Slab City",
+      "path": "wiki/pages/Slab-City.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "slab-city"
+      ],
+      "links": [
+        "organization-The-Union",
+        "npc-Dry-Bones",
+        "location-The-Library",
+        "location-The-Last-Cup",
+        "location-East-Jesus",
+        "location-Music-Camp",
+        "location-Saltwind-Line",
+        "location-Salvation-Mountain",
+        "location-Salton-Sea",
+        "lore-Slab-City-Mage-Law"
+      ],
+      "aliases": [
+        "Salt City"
+      ],
+      "summary": "A desert community and mage refuge where survival, secrecy, and local spiritual law matter as much as faction politics.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Slab-City-Mage-Law",
+      "title": "Slab City Mage Law",
+      "path": "wiki/pages/Slab-City-Mage-Law.md",
+      "type": "lore",
+      "tags": [
+        "lore",
+        "rules"
+      ],
+      "links": [
+        "organization-The-Union",
+        "npc-Dry-Bones",
+        "npc-Keiths-Aunt-Paige"
+      ],
+      "aliases": [
+        "Rules of Slab City"
+      ],
+      "summary": "The informal rules, taboos, and survival logic that govern mage life in Slab City.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Tasman-Quill",
+      "title": "Tasman Quill",
+      "path": "wiki/pages/Tasman-Quill.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "technocracy"
+      ],
+      "links": [
+        "location-The-Last-Cup",
+        "organization-The-Union"
+      ],
+      "aliases": [
+        "Tasman"
+      ],
+      "summary": "The ex-Syndicate owner of the Last Cup, still carrying a Technocratic artificial arm and a hard-earned distrust of the Union.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Temple-of-the-Sun-and-Moon",
+      "title": "Temple of the Sun and Moon",
+      "path": "wiki/pages/Temple-of-the-Sun-and-Moon.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "vision",
+        "history"
+      ],
+      "links": [
+        "location-East-Jesus"
+      ],
+      "aliases": [
+        "Temple of the Sun",
+        "Temple of the Moon"
+      ],
+      "summary": "A vision-location from the past where a tendril creature was sedated and ritually fed through sacrifice.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "species-Tendril-Creatures",
+      "title": "Tendril Creatures",
+      "path": "wiki/pages/Tendril-Creatures.md",
+      "type": "species",
+      "tags": [
+        "species",
+        "spirit",
+        "mystery"
+      ],
+      "links": [
+        "location-East-Jesus",
+        "location-Salvation-Mountain",
+        "location-Temple-of-the-Sun-and-Moon",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [
+        "Tentacle Creatures",
+        "Tendril Monster"
+      ],
+      "summary": "Powerful tentacled spirit-creatures tied to gold, quintessence, sacrifice, and the prison beneath the Salton Sea.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-The-Beat",
+      "title": "The Beat",
+      "path": "wiki/pages/The-Beat.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "faction"
+      ],
+      "links": [
+        "npc-Eli",
+        "npc-Eli",
+        "location-Music-Camp",
+        "lore-Slab-City-Mage-Law",
+        "organization-Shattered-Bottles"
+      ],
+      "aliases": [],
+      "summary": "A Slab City faction or tribe led by Eli, tied to music, local rules, and social authority.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-The-Last-Cup",
+      "title": "The Last Cup",
+      "path": "wiki/pages/The-Last-Cup.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "hub"
+      ],
+      "links": [
+        "npc-Tasman-Quill",
+        "organization-The-Union",
+        "npc-Tasman-Quill",
+        "organization-The-Union",
+        "organization-The-Beat"
+      ],
+      "aliases": [
+        "Last Cup"
+      ],
+      "summary": "A coffee stop and information hub run by ex-Syndicate mage Tasman Quill.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-The-Library",
+      "title": "The Library",
+      "path": "wiki/pages/The-Library.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "anchor-stone",
+        "mystery"
+      ],
+      "links": [
+        "npc-Keiths-Aunt-Paige",
+        "organization-Riverbed-Boys",
+        "npc-Gragnock-Stoneheart",
+        "species-Tendril-Creatures"
+      ],
+      "aliases": [
+        "Slab Library"
+      ],
+      "summary": "Paige's library, a protected anchor stone where the cabal first gathers and where Paige's body is discovered.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-The-Union",
+      "title": "The Union",
+      "path": "wiki/pages/The-Union.md",
+      "type": "organization",
+      "tags": [
+        "organization",
+        "technocracy"
+      ],
+      "links": [
+        "npc-Tasman-Quill",
+        "lore-Salton-Sea-Prison",
+        "npc-Tasman-Quill",
+        "lore-Salton-Sea-Prison"
+      ],
+      "aliases": [
+        "Technocracy",
+        "Technocratic Union"
+      ],
+      "summary": "The Technocratic Union as understood in Slab City: systems, control, drones, sacrifice, and abandoned problems.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "events-Timeline",
+      "title": "Timeline",
+      "path": "wiki/pages/Timeline.md",
+      "type": "events",
+      "tags": [
+        "timeline",
+        "events"
+      ],
+      "links": [
+        "species-Tendril-Creatures",
+        "location-Temple-of-the-Sun-and-Moon",
+        "organization-The-Union",
+        "lore-Salton-Sea-Prison",
+        "npc-Keiths-Aunt-Paige",
+        "location-The-Library",
+        "npc-Mouse",
+        "games-Session-00-Prelude",
+        "games-Session-01-Official-Game-One",
+        "games-Session-02-The-Last-Cup-and-East-Jesus",
+        "games-Session-03-Music-Camp-and-Salvation-Mountain",
+        "games-Session-04-Spirit-World-and-Time-Vision",
+        "games-Session-05-Riverbed-Boys-and-the-Salton-Sea"
+      ],
+      "aliases": [],
+      "summary": "Chronological outline of the early Sands Under the Slab campaign.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-Twilight",
+      "title": "Twilight",
+      "path": "wiki/pages/Twilight.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character"
+      ],
+      "links": [
+        "location-Music-Camp",
+        "species-Tendril-Creatures",
+        "location-Salvation-Mountain",
+        "location-Music-Camp",
+        "npc-Razor-Tom",
+        "organization-The-Beat",
+        "organization-Shattered-Bottles"
+      ],
+      "aliases": [],
+      "summary": "A drug sherpa, performer, and shared-experience mage whose methods fit Slab City's strange social magic.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    }
+  ]
+}
