@@ -1,0 +1,1558 @@
+[
+  {
+    "id": "8:Bee-Boat-and-Spirit-World",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Bee-Boat-and-Spirit-World",
+    "title": "Bee Boat and Spirit World",
+    "category": "lore",
+    "summary": "A spirit-world passage involving a boat made of bees and a return from a much longer absence than expected.",
+    "tags": [
+      "lore",
+      "spirit",
+      "bees"
+    ],
+    "aliases": [
+      "Bee Boat"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Tasman Quill"
+    ],
+    "backlinks": [
+      "Session-04-Spirit-World-and-Time-Vision"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Bee Boat and Spirit World After fleeing the tendril creature, the cabal is pushed into the spirit world. There they encounter a boat made of bees, not giant bees but a mass of ordinary tiny bees forming a vessel. The bee boat carries the cabal through a symbolic and spiritual passage tied to the c"
+  },
+  {
+    "id": "8:Caleb",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Caleb",
+    "title": "Caleb",
+    "category": "npc",
+    "summary": "A member of the Riverbed Boys, practical and wary when the cabal asks about Paige.",
+    "tags": [
+      "npc",
+      "riverbed-boys"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Riverbed Boys",
+      "Saltwind Line",
+      "Keith's Aunt Paige",
+      "Salton Sea Prison",
+      "Riverbed Boys",
+      "Nina",
+      "Old Man Hummingbird",
+      "Keith's Aunt Paige"
+    ],
+    "backlinks": [
+      "Old-Man-Hummingbird",
+      "Riverbed-Boys",
+      "Saltwind-Line"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Caleb Caleb is one of the [[Riverbed Boys]] at [[Saltwind Line]]. He is part of the musical circle that speaks with the cabal about [[Keith's Aunt Paige]]. He is careful about what he says, especially when the conversation moves from gossip into blame, old trials, and the secrets of the [[Salton S"
+  },
+  {
+    "id": "8:Campaign-Overview",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Campaign-Overview",
+    "title": "Campaign Overview",
+    "category": "lore",
+    "summary": "Sands Under the Slab is a Mage: The Ascension chronicle about new mages, Slab City, a dead librarian, and a prison under the Salton Sea.",
+    "tags": [
+      "overview",
+      "mage"
+    ],
+    "aliases": [
+      "Sands Under the Slabs"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Slab City",
+      "Salton Sea",
+      "The Library",
+      "Keith's Aunt Paige",
+      "The Library",
+      "Keith's Aunt Paige",
+      "The Union",
+      "Dry Bones",
+      "Keith's Aunt Paige",
+      "Tendril Creatures",
+      "Salton Sea Prison",
+      "The Union",
+      "The Library",
+      "The Last Cup",
+      "East Jesus",
+      "Music Camp",
+      "Saltwind Line",
+      "Salvation Mountain",
+      "Salton Sea"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Campaign Overview Sands Under the Slab is a Mage: The Ascension chronicle set around [[Slab City]], [[Salton Sea]], and the strange magical ecology of the desert. The player characters arrive as recent outsiders and half-initiates. Most have been in the area only a few days when a sandstorm drives"
+  },
+  {
+    "id": "8:Dry-Bones",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Dry-Bones",
+    "title": "Dry Bones",
+    "category": "npc",
+    "summary": "A desert death and paradox spirit in a duster and hat, enforcing the dry law of Slab City.",
+    "tags": [
+      "npc",
+      "spirit",
+      "paradox"
+    ],
+    "aliases": [
+      "Old Dry Bones"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "East Jesus",
+      "Temple of the Sun and Moon"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "East-Jesus",
+      "Keith",
+      "Keith",
+      "Session-01-Official-Game-One",
+      "Slab-City",
+      "Slab-City-Mage-Law"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Dry Bones Dry Bones is a paradox or desert-death spirit associated with thirst, bones, exposure, and the desert's refusal to be made lush by careless magic. He appears as a skeletal or deathly figure in a duster and hat. The cabal sees him after the time vision connected to [[East Jesus]] and the "
+  },
+  {
+    "id": "8:East-Jesus",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "East-Jesus",
+    "title": "East Jesus",
+    "category": "location",
+    "summary": "An art-installation site where the Gauntlet is thin and a broken TV opens onto a vision of older sacrifices and tendril creatures.",
+    "tags": [
+      "location",
+      "spirit",
+      "vision"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Tendril Creatures",
+      "Temple of the Sun and Moon",
+      "Dry Bones"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Dry-Bones",
+      "Gold-and-Quintessence",
+      "Ian",
+      "Music-Camp",
+      "Order-of-Reason",
+      "Player-Characters",
+      "Session-02-The-Last-Cup-and-East-Jesus",
+      "Slab-City",
+      "Temple-of-the-Sun-and-Moon",
+      "Tendril-Creatures"
+    ],
+    "keyLinks": [],
+    "excerpt": "# East Jesus East Jesus is an art-installation site in Slab City. The Gauntlet is especially low here, and the place is thick with strange resonance. During the cabal's investigation, a broken television becomes a focal point for a vision or spirit event tied to the [[Tendril Creatures]]. ## Known E"
+  },
+  {
+    "id": "8:Eli",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Eli",
+    "title": "Eli",
+    "category": "npc",
+    "summary": "Head of The Beat, an early guide to Slab City's rules and a politically important local mage.",
+    "tags": [
+      "npc",
+      "faction"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Beat",
+      "Razor Tom",
+      "Music Camp",
+      "Keith's Aunt Paige",
+      "Salton Sea Prison",
+      "The Beat",
+      "Music Camp",
+      "Razor Tom",
+      "Slab City Mage Law"
+    ],
+    "backlinks": [
+      "Music-Camp",
+      "Razor-Tom",
+      "Razor-Tom",
+      "Session-01-Official-Game-One",
+      "Session-03-Music-Camp-and-Salvation-Mountain",
+      "The-Beat",
+      "The-Beat"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Eli Eli is the head of [[The Beat]]. He appears early as someone who can explain Slab City's rules to new arrivals and later speaks with [[Razor Tom]] at [[Music Camp]]. He is helpful but not necessarily trusted by the cabal. As the mystery deepens, the characters wonder who among the local leader"
+  },
+  {
+    "id": "8:Gold-and-Quintessence",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Gold-and-Quintessence",
+    "title": "Gold and Quintessence",
+    "category": "lore",
+    "summary": "A recurring clue tying sacrifice, tendril creatures, fertility, and visions of the past together.",
+    "tags": [
+      "lore",
+      "quintessence"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Tendril Creatures",
+      "East Jesus",
+      "Temple of the Sun and Moon"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Gold and Quintessence Gold and quintessence appear together in the visions and aftermath of the [[Tendril Creatures]]. At [[East Jesus]], Ian coughs up gold and water after contact with the vision. In the past, sacrifice at the [[Temple of the Sun and Moon]] releases power that feeds the creature."
+  },
+  {
+    "id": "8:Gragnock-Stoneheart",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Gragnock-Stoneheart",
+    "title": "Gragnock Stoneheart",
+    "category": "npc",
+    "summary": "A local rock spirit whose true name appears in Paige's library tome and becomes a powerful instrument for Ian.",
+    "tags": [
+      "npc",
+      "spirit"
+    ],
+    "aliases": [
+      "Gragnock"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Library",
+      "Ian",
+      "The Library",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Ian",
+      "Ian",
+      "Session-01-Official-Game-One",
+      "The-Library"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Gragnock Stoneheart Gragnock Stoneheart is a local rock spirit named in a tome from [[The Library]]. Ian learns the name while reading Paige's spirit book. Speaking or invoking the name appears to matter magically and may count as a unique instrument for spirit work. ## Known Connections - [[Ian]]"
+  },
+  {
+    "id": "8:Ian",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Ian",
+    "title": "Ian",
+    "category": "character",
+    "summary": "A newly arrived mage whose avatar is bound up with a rock, a spirit tome, and the name Gragnock Stoneheart.",
+    "tags": [
+      "pc",
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Library",
+      "Gragnock Stoneheart",
+      "Gragnock Stoneheart",
+      "East Jesus",
+      "Tendril Creatures"
+    ],
+    "backlinks": [
+      "Gragnock-Stoneheart",
+      "Player-Characters"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Ian Ian is one of the new mages gathered by the storm at [[The Library]]. He becomes closely tied to the campaign's spirit mysteries through a tome, a rock, and the name [[Gragnock Stoneheart]]. ## Known Events - Reads a spirit tome from the Library. - Learns the name [[Gragnock Stoneheart]], a lo"
+  },
+  {
+    "id": "8:Keith",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Keith",
+    "title": "Keith",
+    "category": "character",
+    "summary": "Paige's nephew, pulled into Slab City by his aunt's death and the legacy she left behind.",
+    "tags": [
+      "pc",
+      "character"
+    ],
+    "aliases": [
+      "Josh's character"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Keith's Aunt Paige",
+      "The Library",
+      "Dry Bones",
+      "Keith's Aunt Paige",
+      "The Library",
+      "Dry Bones",
+      "Riverbed Boys"
+    ],
+    "backlinks": [
+      "Player-Characters"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Keith Keith is [[Keith's Aunt Paige]]'s nephew. He arrives in Slab City shortly before the chronicle begins and is drawn into the mystery when Paige's body is found inside [[The Library]]. Paige appears to have made Keith's journey to Slab City easier and may have arranged circumstances so he woul"
+  },
+  {
+    "id": "8:Keiths-Aunt-Paige",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Keiths-Aunt-Paige",
+    "title": "Keith's Aunt Paige",
+    "category": "npc",
+    "summary": "The dead librarian whose murder opens the chronicle; brilliant, protective, feared, and accused of dangerous mind, time, and spirit magic.",
+    "tags": [
+      "npc",
+      "deceased",
+      "mystery"
+    ],
+    "aliases": [
+      "Paige",
+      "Keith's Aunt"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Library",
+      "Riverbed Boys",
+      "Nina",
+      "Mouse",
+      "Tendril Creatures",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Caleb",
+      "Caleb",
+      "Campaign-Overview",
+      "Campaign-Overview",
+      "Campaign-Overview",
+      "Eli",
+      "Keith",
+      "Keith",
+      "Mouse",
+      "Nina",
+      "Old-Man-Hummingbird",
+      "Open-Quests",
+      "Pompey",
+      "Riverbed-Boys",
+      "Salton-Sea",
+      "Saltwind-Line",
+      "Session-00-Prelude",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "Shattered-Bottles",
+      "Shattered-Bottles",
+      "Slab-City-Mage-Law",
+      "The-Library",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Keith's Aunt Paige Paige was Keith's aunt and the keeper of [[The Library]]. She had lived in Slab City for years and gave shelter to people who needed a place to recover, learn, or hide. She is found dead at the start of the chronicle. Her death becomes the cabal's first mystery. ## Reputation Pa"
+  },
+  {
+    "id": "8:Mouse",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Mouse",
+    "title": "Mouse",
+    "category": "npc",
+    "summary": "A Shattered Bottles member who reportedly defended Paige during a local accusation or trial.",
+    "tags": [
+      "npc",
+      "mystery"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Shattered Bottles",
+      "Keith's Aunt Paige",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Keiths-Aunt-Paige",
+      "Open-Quests",
+      "Riverbed-Boys",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "Shattered-Bottles",
+      "Shattered-Bottles",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Mouse Mouse is a member of [[Shattered Bottles]] and reportedly served as [[Keith's Aunt Paige]]'s defense during a local accusation or trial. The cabal has not yet fully questioned Mouse, making them a key person of interest for understanding what Paige was accused of, who judged her, and why she"
+  },
+  {
+    "id": "8:Music-Camp",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Music-Camp",
+    "title": "Music Camp",
+    "category": "location",
+    "summary": "A social and magical gathering place where music, memory, performance, and tribe politics overlap.",
+    "tags": [
+      "location",
+      "music"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "East Jesus",
+      "Razor Tom",
+      "Salvation Mountain",
+      "The Beat",
+      "Shattered Bottles",
+      "The Beat",
+      "Eli",
+      "Razor Tom",
+      "Twilight",
+      "Salvation Mountain"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Eli",
+      "Eli",
+      "Razor-Tom",
+      "Razor-Tom",
+      "Session-03-Music-Camp-and-Salvation-Mountain",
+      "Slab-City",
+      "The-Beat",
+      "Twilight",
+      "Twilight"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Music Camp Music Camp is a gathering place of roughly a few dozen people, makeshift speakers, informal stage space, and strong social magic. The cabal arrives near sunset after the events at [[East Jesus]]. Music Camp becomes a place to recover, learn local politics, and encounter the factions tha"
+  },
+  {
+    "id": "8:Nina",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Nina",
+    "title": "Nina",
+    "category": "npc",
+    "summary": "A Riverbed Boys member who once stayed at Paige's Library for months and still carries gratitude and guarded knowledge.",
+    "tags": [
+      "npc",
+      "riverbed-boys"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Riverbed Boys",
+      "Keith's Aunt Paige",
+      "The Library",
+      "Old Man Hummingbird",
+      "Salton Sea"
+    ],
+    "backlinks": [
+      "Caleb",
+      "Keiths-Aunt-Paige",
+      "Old-Man-Hummingbird",
+      "Old-Man-Hummingbird",
+      "Riverbed-Boys",
+      "Saltwind-Line"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Nina Nina is a member of the [[Riverbed Boys]]. When she first came to Slab City, [[Keith's Aunt Paige]] let her stay at [[The Library]] for four or five months while she got her bearings. Nina's gratitude does not mean she thinks Paige was harmless. Like the rest of the Riverbed Boys, she carries"
+  },
+  {
+    "id": "8:Old-Man-Hummingbird",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Old-Man-Hummingbird",
+    "title": "Old Man Hummingbird",
+    "category": "npc",
+    "summary": "A Riverbed Boys elder whose music and spirit knowledge guide the cabal toward the Salton Sea.",
+    "tags": [
+      "npc",
+      "riverbed-boys",
+      "spirit"
+    ],
+    "aliases": [
+      "Hummingbird"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Riverbed Boys",
+      "Saltwind Line",
+      "Keith's Aunt Paige",
+      "Salton Sea",
+      "Nina",
+      "Riverbed Boys",
+      "Nina",
+      "Caleb",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Caleb",
+      "Nina",
+      "Riverbed-Boys",
+      "Saltwind-Line"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Old Man Hummingbird Old Man Hummingbird is one of the [[Riverbed Boys]]. He carries deep spiritual knowledge and speaks through music as much as through explanation. He recognizes the exchange of life, memory, and future in the cabal's interactions. His music can make the path of a timeline feel l"
+  },
+  {
+    "id": "8:Open-Quests",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Open-Quests",
+    "title": "Open Quests",
+    "category": "events",
+    "summary": "A practical tracker for the campaign's unresolved mysteries and next actions.",
+    "tags": [
+      "quests",
+      "tracker"
+    ],
+    "aliases": [
+      "Quest Log"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Keith's Aunt Paige",
+      "The Library",
+      "Mouse",
+      "Salton Sea Prison",
+      "Tendril Creatures",
+      "Salvation Mountain",
+      "The Union"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Open Quests ## Investigate Paige's Murder Find who killed [[Keith's Aunt Paige]], what was taken from [[The Library]], and whether the killing was punishment, cover-up, mercy, or containment. ## Question Mouse [[Mouse]] reportedly defended Paige during a local accusation or trial. They may know wh"
+  },
+  {
+    "id": "8:Order-of-Reason",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Order-of-Reason",
+    "title": "Order of Reason",
+    "category": "organization",
+    "summary": "Historical predecessors or analogues of the Union seen in the temple vision, tied to conquistadors and the breaking of an older ritual system.",
+    "tags": [
+      "organization",
+      "history"
+    ],
+    "aliases": [
+      "Conquistadors"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "East Jesus",
+      "Temple of the Sun and Moon",
+      "Tendril Creatures",
+      "The Union"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Order of Reason The Order of Reason appears through the [[East Jesus]] time vision and the [[Temple of the Sun and Moon]]. The cabal sees conquistador or proto-Technocratic figures interacting with a system that had been used to sedate and feed a [[Tendril Creatures|tendril creature]]. ## Signific"
+  },
+  {
+    "id": "8:Player-Characters",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Player-Characters",
+    "title": "Player Characters",
+    "category": "character",
+    "summary": "Working index of the cabal members named in the early Sands Under the Slab transcripts.",
+    "tags": [
+      "character",
+      "index"
+    ],
+    "aliases": [
+      "Cabal"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Keith",
+      "Ian",
+      "Twilight",
+      "East Jesus"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Player Characters This is the working player-character index for the early Sands Under the Slab transcripts. ## Named Pages - [[Keith]] - [[Ian]] - [[Twilight]] ## Additional Cabal Members Mentioned - Mark, whose time magic helps trigger or deepen the [[East Jesus]] vision. - Melina or Lena, assoc"
+  },
+  {
+    "id": "8:Pompey",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Pompey",
+    "title": "Pompey",
+    "category": "npc",
+    "summary": "A name connected to Paige's earlier trouble and possible defense or protection in Slab City politics.",
+    "tags": [
+      "npc",
+      "mystery"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Keith's Aunt Paige"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Pompey Pompey is mentioned in connection with [[Keith's Aunt Paige]] and earlier Slab City trouble. The current understanding is that Pompey may have helped Paige survive or get clear of a prior accusation before the final events that led to her death. ## Open Questions - Who is Pompey in Slab Cit"
+  },
+  {
+    "id": "8:Razor-Tom",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Razor-Tom",
+    "title": "Razor Tom",
+    "category": "npc",
+    "summary": "A Shattered Bottles member who speaks with Eli and points the cabal toward Salvation Mountain.",
+    "tags": [
+      "npc",
+      "faction"
+    ],
+    "aliases": [
+      "Razor"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Shattered Bottles",
+      "Eli",
+      "Music Camp",
+      "Salvation Mountain",
+      "Shattered Bottles",
+      "Eli",
+      "Music Camp",
+      "Salvation Mountain"
+    ],
+    "backlinks": [
+      "Eli",
+      "Eli",
+      "Music-Camp",
+      "Music-Camp",
+      "Salvation-Mountain",
+      "Session-03-Music-Camp-and-Salvation-Mountain",
+      "Shattered-Bottles",
+      "Shattered-Bottles",
+      "Twilight"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Razor Tom Razor Tom is a member of [[Shattered Bottles]]. The cabal sees him speaking with [[Eli]] at [[Music Camp]]. He talks about [[Salvation Mountain]], the devotion that built it, and the way repeated love or hunger can make a place spiritually significant. ## Connections - [[Shattered Bottle"
+  },
+  {
+    "id": "8:Riverbed-Boys",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Riverbed-Boys",
+    "title": "Riverbed Boys",
+    "category": "organization",
+    "summary": "A circle of Slab City mages tied to music, shared memory, and Paige's past.",
+    "tags": [
+      "organization",
+      "circle"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Saltwind Line",
+      "Keith's Aunt Paige",
+      "Caleb",
+      "Nina",
+      "Old Man Hummingbird",
+      "The Library",
+      "Mouse",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Caleb",
+      "Caleb",
+      "Keith",
+      "Keiths-Aunt-Paige",
+      "Nina",
+      "Old-Man-Hummingbird",
+      "Old-Man-Hummingbird",
+      "Saltwind-Line",
+      "Saltwind-Line",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "The-Library"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Riverbed Boys The Riverbed Boys are a circle of mages living around [[Saltwind Line]]. They are known as allies or at least consistent friends of [[Keith's Aunt Paige]]. Their magic is expressed through music, harmony, shared attention, and memory. When they play together, the experience can carry"
+  },
+  {
+    "id": "8:Salton-Sea",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Salton-Sea",
+    "title": "Salton Sea",
+    "category": "location",
+    "summary": "The toxic sea at the center of the campaign's largest secret: a Union-made or Union-maintained prison that bleeds the land.",
+    "tags": [
+      "location",
+      "salton-sea",
+      "prison"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Union",
+      "Tendril Creatures",
+      "Salton Sea Prison",
+      "Tendril Creatures",
+      "The Union",
+      "Keith's Aunt Paige"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Campaign-Overview",
+      "Nina",
+      "Old-Man-Hummingbird",
+      "Salton-Sea-Prison",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "Slab-City"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Salton Sea The Salton Sea is not only a polluted body of water. It is the visible face of a deeper imprisonment, warding, and ecological wound. As the cabal approaches, the Gauntlet rises. The spiritual world tightens and resists. Old Man Hummingbird identifies this as the place where [[The Union]"
+  },
+  {
+    "id": "8:Salton-Sea-Prison",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Salton-Sea-Prison",
+    "title": "Salton Sea Prison",
+    "category": "lore",
+    "summary": "The central magical problem: a prison beneath or around the Salton Sea that contains dangerous spirit-creatures by bleeding the land dry.",
+    "tags": [
+      "lore",
+      "prison",
+      "mystery"
+    ],
+    "aliases": [
+      "The Prison"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Salton Sea",
+      "Tendril Creatures",
+      "The Union"
+    ],
+    "backlinks": [
+      "Caleb",
+      "Campaign-Overview",
+      "Eli",
+      "Gragnock-Stoneheart",
+      "Keiths-Aunt-Paige",
+      "Mouse",
+      "Old-Man-Hummingbird",
+      "Open-Quests",
+      "Riverbed-Boys",
+      "Salton-Sea",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "Tendril-Creatures",
+      "The-Union",
+      "The-Union",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Salton Sea Prison The Salton Sea Prison is the largest known mystery in the chronicle. It appears to be a magical and possibly Technocratic containment system beneath or around the [[Salton Sea]]. The prison contains one or more [[Tendril Creatures]]. It may keep them trapped by draining fertility"
+  },
+  {
+    "id": "8:Saltwind-Line",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Saltwind-Line",
+    "title": "Saltwind Line",
+    "category": "location",
+    "summary": "A settlement of dead pads, dugouts, and cool underground places where the Riverbed Boys live and play.",
+    "tags": [
+      "location",
+      "riverbed-boys"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Riverbed Boys",
+      "Keith's Aunt Paige",
+      "Riverbed Boys",
+      "Caleb",
+      "Nina",
+      "Old Man Hummingbird"
+    ],
+    "backlinks": [
+      "Caleb",
+      "Campaign-Overview",
+      "Old-Man-Hummingbird",
+      "Riverbed-Boys",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "Slab-City"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Saltwind Line Saltwind Line is a place of dead pads, old trailer beds, improvised hovels, and dugout spaces cut into the desert. Beneath some of the structures are cooler, moist rooms that feel almost impossible compared to the heat outside. The cabal comes here to speak to the [[Riverbed Boys]], "
+  },
+  {
+    "id": "8:Salvation-Mountain",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Salvation-Mountain",
+    "title": "Salvation Mountain",
+    "category": "location",
+    "summary": "A node and spiritual landmark tied to love, hunger, local politics, and the attacks by a younger tendril creature.",
+    "tags": [
+      "location",
+      "node",
+      "mystery"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Razor Tom"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Music-Camp",
+      "Music-Camp",
+      "Open-Quests",
+      "Razor-Tom",
+      "Razor-Tom",
+      "Session-01-Official-Game-One",
+      "Session-03-Music-Camp-and-Salvation-Mountain",
+      "Slab-City",
+      "Tendril-Creatures",
+      "Twilight"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Salvation Mountain Salvation Mountain is a major spiritual landmark and node. [[Razor Tom]] speaks of it as a place shaped by repeated devotion, love, and the builder's overwhelming focus. The cabal learns that Salvation Mountain may be one of the easiest ways to tap into time and place, but it is"
+  },
+  {
+    "id": "8:Session-00-Prelude",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Session-00-Prelude",
+    "title": "Session 00 - Prelude",
+    "category": "games",
+    "summary": "The characters shelter in the Library during a sandstorm and discover Paige's body.",
+    "tags": [
+      "session",
+      "recap"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Slab City",
+      "The Library",
+      "Keith's Aunt Paige"
+    ],
+    "backlinks": [
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Session 00 - Prelude The chronicle opens in June heat. The characters have been in [[Slab City]] for only a few days when a sandstorm pushes them toward [[The Library]]. Inside, they meet one another, shelter from the storm, and begin to see how strange the local community is. Bees, cobras, patche"
+  },
+  {
+    "id": "8:Session-01-Official-Game-One",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Session-01-Official-Game-One",
+    "title": "Session 01 - Official Game One",
+    "category": "games",
+    "summary": "The cabal wakes into Slab City, reads Paige's tome, learns Gragnock's name, and begins meeting the local mage community.",
+    "tags": [
+      "session",
+      "recap"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Library",
+      "Gragnock Stoneheart",
+      "Eli",
+      "Dry Bones",
+      "The Union",
+      "Salvation Mountain"
+    ],
+    "backlinks": [
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Session 01 - Official Game One The first official session begins after the discovery of Paige's body. Some characters have stayed at [[The Library]], and the cabal starts the day trying to understand what the place is and how Slab City works. Ian reads from a tome connected to Paige and learns the"
+  },
+  {
+    "id": "8:Session-02-The-Last-Cup-and-East-Jesus",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Session-02-The-Last-Cup-and-East-Jesus",
+    "title": "Session 02 - The Last Cup and East Jesus",
+    "category": "games",
+    "summary": "The cabal questions Tasman Quill, learns more about the Union, and triggers a dangerous vision at East Jesus.",
+    "tags": [
+      "session",
+      "recap"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Last Cup",
+      "Tasman Quill",
+      "The Union",
+      "East Jesus",
+      "Temple of the Sun and Moon",
+      "Tendril Creatures"
+    ],
+    "backlinks": [
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Session 02 - The Last Cup and East Jesus The cabal visits [[The Last Cup]] and speaks with [[Tasman Quill]], an ex-Syndicate mage with a Technocratic artificial arm. Tasman explains pieces of [[The Union]] and pushes back against the idea that she is still acting as one of them. The group then inv"
+  },
+  {
+    "id": "8:Session-03-Music-Camp-and-Salvation-Mountain",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Session-03-Music-Camp-and-Salvation-Mountain",
+    "title": "Session 03 - Music Camp and Salvation Mountain",
+    "category": "games",
+    "summary": "Music Camp gives the cabal faction leads, then the route toward Salvation Mountain turns into a tendril-creature attack.",
+    "tags": [
+      "session",
+      "recap"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Music Camp",
+      "Eli",
+      "Razor Tom",
+      "Salvation Mountain",
+      "The Beat",
+      "Shattered Bottles"
+    ],
+    "backlinks": [
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Session 03 - Music Camp and Salvation Mountain After the East Jesus vision, the cabal heads to [[Music Camp]] near sunset. Twilight performs a shared-experience set that energizes the crowd and gives him unexpected quintessence. The cabal meets or observes [[Eli]] and [[Razor Tom]]. Razor Tom spea"
+  },
+  {
+    "id": "8:Session-04-Spirit-World-and-Time-Vision",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Session-04-Spirit-World-and-Time-Vision",
+    "title": "Session 04 - Spirit World and Time Vision",
+    "category": "games",
+    "summary": "The cabal flees into the spirit world, rides the bee boat, witnesses older temple sacrifices, and returns after a long absence.",
+    "tags": [
+      "session",
+      "recap"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Bee Boat and Spirit World",
+      "Temple of the Sun and Moon",
+      "Tasman Quill"
+    ],
+    "backlinks": [
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Session 04 - Spirit World and Time Vision Fleeing the tendril creature, the cabal enters the spirit world. The desert becomes wet, salty, and strange. A [[Bee Boat and Spirit World|boat made of bees]] carries them through the experience. The cabal witnesses or inhabits scenes around the [[Temple o"
+  },
+  {
+    "id": "8:Session-05-Riverbed-Boys-and-the-Salton-Sea",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+    "title": "Session 05 - Riverbed Boys and the Salton Sea",
+    "category": "games",
+    "summary": "The Riverbed Boys reveal more about Paige, then guide the cabal toward the prison under the Salton Sea.",
+    "tags": [
+      "session",
+      "recap"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Saltwind Line",
+      "Riverbed Boys",
+      "Keith's Aunt Paige",
+      "Mouse",
+      "Salton Sea",
+      "The Union",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Session 05 - Riverbed Boys and the Salton Sea The cabal goes to [[Saltwind Line]] to speak with the [[Riverbed Boys]], who were known allies of [[Keith's Aunt Paige]]. Caleb, Nina, and Old Man Hummingbird reveal that Paige helped people but also pushed dangerous boundaries. She was accused of mani"
+  },
+  {
+    "id": "8:Shattered-Bottles",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Shattered-Bottles",
+    "title": "Shattered Bottles",
+    "category": "organization",
+    "summary": "A Slab City faction connected to Razor Tom and Mouse.",
+    "tags": [
+      "organization",
+      "faction"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Razor Tom",
+      "Mouse",
+      "Keith's Aunt Paige",
+      "Razor Tom",
+      "Mouse",
+      "The Beat",
+      "Keith's Aunt Paige"
+    ],
+    "backlinks": [
+      "Mouse",
+      "Music-Camp",
+      "Razor-Tom",
+      "Razor-Tom",
+      "Session-03-Music-Camp-and-Salvation-Mountain",
+      "The-Beat",
+      "Twilight"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Shattered Bottles Shattered Bottles is one of the known Slab City factions or tribes. [[Razor Tom]] is a member. [[Mouse]], who reportedly defended [[Keith's Aunt Paige]], is also connected to the group. ## Known Connections - [[Razor Tom]] - [[Mouse]] - [[The Beat]] - [[Keith's Aunt Paige]]"
+  },
+  {
+    "id": "8:Slab-City",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Slab-City",
+    "title": "Slab City",
+    "category": "location",
+    "summary": "A desert community and mage refuge where survival, secrecy, and local spiritual law matter as much as faction politics.",
+    "tags": [
+      "location",
+      "slab-city"
+    ],
+    "aliases": [
+      "Salt City"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Union",
+      "Dry Bones",
+      "The Library",
+      "The Last Cup",
+      "East Jesus",
+      "Music Camp",
+      "Saltwind Line",
+      "Salvation Mountain",
+      "Salton Sea",
+      "Slab City Mage Law"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Session-00-Prelude"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Slab City Slab City is the desert refuge where the chronicle begins. In June the heat sits around 110 degrees or worse, so even ordinary social movement becomes difficult and dangerous. For mages, Slab City is both shelter and trap. The Gauntlet is strange, the desert has opinions, and the communi"
+  },
+  {
+    "id": "8:Slab-City-Mage-Law",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Slab-City-Mage-Law",
+    "title": "Slab City Mage Law",
+    "category": "lore",
+    "summary": "The informal rules, taboos, and survival logic that govern mage life in Slab City.",
+    "tags": [
+      "lore",
+      "rules"
+    ],
+    "aliases": [
+      "Rules of Slab City"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Union",
+      "Dry Bones",
+      "Keith's Aunt Paige"
+    ],
+    "backlinks": [
+      "Eli",
+      "Slab-City",
+      "The-Beat"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Slab City Mage Law Slab City mage law is not written as a neat code. It is carried in warnings, stories, faction pressure, spiritual consequences, and memories of what happened last time someone pushed too hard. ## Known Principles - Do not attract [[The Union]]. - Do not create a magical crisis o"
+  },
+  {
+    "id": "8:Tasman-Quill",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Tasman-Quill",
+    "title": "Tasman Quill",
+    "category": "npc",
+    "summary": "The ex-Syndicate owner of the Last Cup, still carrying a Technocratic artificial arm and a hard-earned distrust of the Union.",
+    "tags": [
+      "npc",
+      "technocracy"
+    ],
+    "aliases": [
+      "Tasman"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "The Last Cup",
+      "The Union"
+    ],
+    "backlinks": [
+      "Bee-Boat-and-Spirit-World",
+      "Session-02-The-Last-Cup-and-East-Jesus",
+      "Session-04-Spirit-World-and-Time-Vision",
+      "The-Last-Cup",
+      "The-Last-Cup",
+      "The-Union",
+      "The-Union"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Tasman Quill Tasman Quill runs [[The Last Cup]]. She is an ex-Technocrat, specifically tied to the Syndicate, and still carries obvious signs of that past, including a Union-made artificial arm. She is wary, practical, and not interested in being treated as an active enemy. When challenged about w"
+  },
+  {
+    "id": "8:Temple-of-the-Sun-and-Moon",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Temple-of-the-Sun-and-Moon",
+    "title": "Temple of the Sun and Moon",
+    "category": "location",
+    "summary": "A vision-location from the past where a tendril creature was sedated and ritually fed through sacrifice.",
+    "tags": [
+      "location",
+      "vision",
+      "history"
+    ],
+    "aliases": [
+      "Temple of the Sun",
+      "Temple of the Moon"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "East Jesus"
+    ],
+    "backlinks": [
+      "Dry-Bones",
+      "East-Jesus",
+      "Gold-and-Quintessence",
+      "Order-of-Reason",
+      "Session-02-The-Last-Cup-and-East-Jesus",
+      "Session-04-Spirit-World-and-Time-Vision",
+      "Tendril-Creatures",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Temple of the Sun and Moon The Temple of the Sun and Moon is a past vision seen through the events at [[East Jesus]]. In the vision, a tendril creature is held, sedated, and ritually fed. On some days the Temple of the Sun holds the creature; on other days the Temple of the Moon does. The system s"
+  },
+  {
+    "id": "8:Tendril-Creatures",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Tendril-Creatures",
+    "title": "Tendril Creatures",
+    "category": "species",
+    "summary": "Powerful tentacled spirit-creatures tied to gold, quintessence, sacrifice, and the prison beneath the Salton Sea.",
+    "tags": [
+      "species",
+      "spirit",
+      "mystery"
+    ],
+    "aliases": [
+      "Tentacle Creatures",
+      "Tendril Monster"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "East Jesus",
+      "Salvation Mountain",
+      "Temple of the Sun and Moon",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "East-Jesus",
+      "Gold-and-Quintessence",
+      "Ian",
+      "Keiths-Aunt-Paige",
+      "Open-Quests",
+      "Order-of-Reason",
+      "Salton-Sea",
+      "Salton-Sea",
+      "Salton-Sea-Prison",
+      "Session-02-The-Last-Cup-and-East-Jesus",
+      "The-Library",
+      "Timeline",
+      "Twilight"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Tendril Creatures The Tendril Creatures are large, tentacled or tendriled beings connected to quintessence, gold, fertility, and sacrifice. The cabal first encounters signs of them through [[East Jesus]], then through visions of older rituals and later direct attacks near [[Salvation Mountain]]. #"
+  },
+  {
+    "id": "8:The-Beat",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "The-Beat",
+    "title": "The Beat",
+    "category": "organization",
+    "summary": "A Slab City faction or tribe led by Eli, tied to music, local rules, and social authority.",
+    "tags": [
+      "organization",
+      "faction"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Eli",
+      "Eli",
+      "Music Camp",
+      "Slab City Mage Law",
+      "Shattered Bottles"
+    ],
+    "backlinks": [
+      "Eli",
+      "Eli",
+      "Music-Camp",
+      "Music-Camp",
+      "Session-03-Music-Camp-and-Salvation-Mountain",
+      "Shattered-Bottles",
+      "The-Last-Cup",
+      "Twilight"
+    ],
+    "keyLinks": [],
+    "excerpt": "# The Beat The Beat is one of the local groups or tribes of Slab City. [[Eli]] is identified as its head. The Beat is tied to music, social coordination, and the local rules that allow mages to survive without bringing disaster on everyone. ## Known Connections - [[Eli]] - [[Music Camp]] - [[Slab Ci"
+  },
+  {
+    "id": "8:The-Last-Cup",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "The-Last-Cup",
+    "title": "The Last Cup",
+    "category": "location",
+    "summary": "A coffee stop and information hub run by ex-Syndicate mage Tasman Quill.",
+    "tags": [
+      "location",
+      "hub"
+    ],
+    "aliases": [
+      "Last Cup"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Tasman Quill",
+      "The Union",
+      "Tasman Quill",
+      "The Union",
+      "The Beat"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Session-02-The-Last-Cup-and-East-Jesus",
+      "Slab-City",
+      "Tasman-Quill"
+    ],
+    "keyLinks": [],
+    "excerpt": "# The Last Cup The Last Cup is a coffee place and social hub in Slab City, run by [[Tasman Quill]]. It is a place where tourists, drifters, and local mages can intersect without everyone admitting what they are. The cabal comes here early while trying to understand the rules of Slab City and the dan"
+  },
+  {
+    "id": "8:The-Library",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "The-Library",
+    "title": "The Library",
+    "category": "location",
+    "summary": "Paige's library, a protected anchor stone where the cabal first gathers and where Paige's body is discovered.",
+    "tags": [
+      "location",
+      "anchor-stone",
+      "mystery"
+    ],
+    "aliases": [
+      "Slab Library"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Keith's Aunt Paige",
+      "Riverbed Boys",
+      "Gragnock Stoneheart",
+      "Tendril Creatures"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Campaign-Overview",
+      "Campaign-Overview",
+      "Gragnock-Stoneheart",
+      "Gragnock-Stoneheart",
+      "Ian",
+      "Keith",
+      "Keith",
+      "Keiths-Aunt-Paige",
+      "Nina",
+      "Open-Quests",
+      "Riverbed-Boys",
+      "Session-00-Prelude",
+      "Session-01-Official-Game-One",
+      "Slab-City",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# The Library The Library is the first sanctuary of the chronicle. During the opening sandstorm, the player characters gather here for shelter and discover that [[Keith's Aunt Paige]], the woman who maintained the place, has been killed. The building is more than a collection of books. It has perman"
+  },
+  {
+    "id": "8:The-Union",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "The-Union",
+    "title": "The Union",
+    "category": "organization",
+    "summary": "The Technocratic Union as understood in Slab City: systems, control, drones, sacrifice, and abandoned problems.",
+    "tags": [
+      "organization",
+      "technocracy"
+    ],
+    "aliases": [
+      "Technocracy",
+      "Technocratic Union"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Tasman Quill",
+      "Salton Sea Prison",
+      "Tasman Quill",
+      "Salton Sea Prison"
+    ],
+    "backlinks": [
+      "Campaign-Overview",
+      "Campaign-Overview",
+      "Open-Quests",
+      "Order-of-Reason",
+      "Salton-Sea",
+      "Salton-Sea",
+      "Salton-Sea-Prison",
+      "Session-01-Official-Game-One",
+      "Session-02-The-Last-Cup-and-East-Jesus",
+      "Session-05-Riverbed-Boys-and-the-Salton-Sea",
+      "Slab-City",
+      "Slab-City-Mage-Law",
+      "Tasman-Quill",
+      "The-Last-Cup",
+      "The-Last-Cup",
+      "Timeline"
+    ],
+    "keyLinks": [],
+    "excerpt": "# The Union The Union is the local name used for the Technocratic Union. In the early sessions, the cabal learns about it through [[Tasman Quill]], local warnings, and the history of the [[Salton Sea Prison]]. The Union believes it knows how reality should be organized. In Slab City terms, that mean"
+  },
+  {
+    "id": "8:Timeline",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Timeline",
+    "title": "Timeline",
+    "category": "events",
+    "summary": "Chronological outline of the early Sands Under the Slab campaign.",
+    "tags": [
+      "timeline",
+      "events"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Tendril Creatures",
+      "Temple of the Sun and Moon",
+      "The Union",
+      "Salton Sea Prison",
+      "Keith's Aunt Paige",
+      "The Library",
+      "Mouse",
+      "Session 00 - Prelude",
+      "Session 01 - Official Game One",
+      "Session 02 - The Last Cup and East Jesus",
+      "Session 03 - Music Camp and Salvation Mountain",
+      "Session 04 - Spirit World and Time Vision",
+      "Session 05 - Riverbed Boys and the Salton Sea"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Timeline ## Before The Campaign - The [[Tendril Creatures]] are once managed through sacrificial rites at the [[Temple of the Sun and Moon]]. - The old system is damaged or broken after outside interference and overfeeding. - [[The Union]] later creates or maintains the [[Salton Sea Prison]]. - [["
+  },
+  {
+    "id": "8:Twilight",
+    "campaignId": 8,
+    "campaignName": "Sand-Under-the-Slab",
+    "slug": "Twilight",
+    "title": "Twilight",
+    "category": "character",
+    "summary": "A drug sherpa, performer, and shared-experience mage whose methods fit Slab City's strange social magic.",
+    "tags": [
+      "pc",
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Music Camp",
+      "Tendril Creatures",
+      "Salvation Mountain",
+      "Music Camp",
+      "Razor Tom",
+      "The Beat",
+      "Shattered Bottles"
+    ],
+    "backlinks": [
+      "Music-Camp",
+      "Player-Characters"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Twilight Twilight is one of the player characters and a natural fit for Slab City's improvised mystic culture. He acts as a drug sherpa for tourists and seekers, guiding experiences rather than merely selling substances. ## Known Style - Uses altered states, performance, recordings, and shared exp"
+  }
+]
